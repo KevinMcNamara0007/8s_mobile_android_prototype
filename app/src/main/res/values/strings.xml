@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">8s Prototype 1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_unlocked">8s-Unlocked</string>
+    <string name="title_activity_locked">8s-Locked</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+</resources>
